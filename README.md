@@ -1,5 +1,7 @@
 # SheepSoftRenderer
-MySheepSoftRenderer Notes![image](https://github.com/dyyosh2006/SheepSoftRenderer/assets/22925948/3d51be6c-6fc1-455f-be21-489eefbe8271)
+MySheepSoftRenderer Notes
+
+![Animation2](https://github.com/dyyosh2006/SheepSoftRenderer/assets/22925948/3413dc1c-54e4-4c71-98c3-e638dcc7043b)
 
 
 
